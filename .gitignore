@@ -1,0 +1,51 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcuserdata/
+
+# Swift Package Manager
+/.build/
+Package.resolved
+.swiftpm/
+
+# CocoaPods (if you ever add it)
+Pods/
+Podfile.lock
+
+# Carthage (if you ever add it)
+Carthage/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives & Logs
+*.xcarchive
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.log
+
+# iOS Specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+*.preview-thumbnails
+
+# Firebase / Google Services (if needed)
+GoogleService-Info.plist
+
+# Environment files
+*.env
+
